@@ -17,3 +17,6 @@ http://www.cs.uky.edu/~raphael/linguistics/hebrew.katr
 http://www.mesacc.edu/~tomshoemaker/fall11/hebrew/grammar.html
 
 "Linear first-time derivation of verbs and consonant cluster preservation in Israeli Hebrew" by Shmuel Bolozky
+
+
+test1
